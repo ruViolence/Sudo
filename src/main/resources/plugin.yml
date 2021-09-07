@@ -1,0 +1,6 @@
+name: Sudo
+version: '1'
+main: ru.violence.sudo.SudoPlugin
+api-version: 1.13
+commands:
+  sudo:
